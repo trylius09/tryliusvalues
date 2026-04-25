@@ -2,7 +2,7 @@ questions =  [
     {"id": 0, "question":  "Social welfare programs can create long-term dependency, rather than providing benefit.", "effects": {"right": 1}},
     {"id": 1, "question":  "Minimum wage laws can raise wages above what some employers are able to sustain.", "effects": {"right": 1}},
     {"id": 2, "question":  "Self-interest is an important driver of economic growth.", "effects": {"right": 1}},
-    {"id": 3, "question":  "It is \"human nature\" to be greedy.", "effects": {"right": 1}},
+    {"id": 3, "question":  "Most people’s income reflects their contribution to society.", "effects": {"right": 1}},
     {"id": 4, "question":  "Claims of exploitation in modern economies are often exaggerated.", "effects": {"right": 1}},
     {"id": 5, "question":  "Communism can function effectively on a large scale.", "effects": {"right": -1}},
     {"id": 6, "question":  "Markets with minimal government regulation produce more economic output than heavily regulated markets.", "effects": {"right": 1}},
