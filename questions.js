@@ -9,7 +9,7 @@ questions =  [
     {"id": 7, "question":  "Employers who cannot afford a higher minimum wage may be operating on an unsustainable business model.", "effects": {"right": -1}},
     {"id": 8, "question":  "The state should redistribute wealth from higher earners to support those who earn lower income.", "effects": {"right": -1}},
     {"id": 9, "question":  "Access to basic necessities such as food, housing, and healthcare should be guaranteed by the government.", "effects": {"right": -1}},
-    {"id": 10, "question": "A strong social safety net is necessary, even if it leads to higher taxes.", "effects": {"right": -1}},
+    {"id": 10, "question": "A strong social safety net that protects the general welfare of citizens is necessary, even if it leads to higher taxes.", "effects": {"right": -1}},
     {"id": 11, "question": "Collective welfare should take precedence over individual profit.", "effects": {"right": -1}},
     {"id": 12, "question": "Basic infrastructure, such as roads, should be publicly owned.", "effects": {"right": -1}},
     {"id": 13, "question": "Economic outcomes are ultimately influenced more by personal circumstances than by individual choices.", "effects": {"right": -1}},
