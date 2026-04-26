@@ -40,7 +40,7 @@ questions =  [
     {"id": 38, "question": "All individuals should have basic human rights, regardless of their actions.", "effects": {"prog": 1}},
     {"id": 39, "question": "Same-sex marriage and adoption should not be protected by law.", "effects": {"prog": -1}},
     {"id": 40, "question": "Adoption policies should emphasize traditional family values and structures.", "effects": {"prog": -1}},
-    {"id": 41, "question": "Recreational drug use should be prohibited.", "effects": {"prog": -1}},
+    {"id": 41, "question": "Recreational marijuana should be prohibited.", "effects": {"prog": -1}},
     {"id": 42, "question": "The death penalty should exist for certain crimes.", "effects": {"prog": -1}},
     {"id": 43, "question": "Victimless crimes such as gambling or prostitution should be criminalized.", "effects": {"prog": -1}},
     {"id": 44, "question": "Traditional family structures are important and should be preserved.", "effects": {"prog": -1}},
